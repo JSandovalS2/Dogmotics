@@ -1,0 +1,8 @@
+Conexiones PIN Casa Perro Domotica
+
+Aire Acondicionado
+Naranja - Verde - MOTOR
+Amarillo - Azul - LEDS
+rojo - Power
+negro - GND
+
