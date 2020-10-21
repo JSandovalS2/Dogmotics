@@ -21,9 +21,9 @@ int encender = 0;
 
 DHT dht(DHTPIN, DHTTYPE);
 
-char auth[] = "Zjn25YfNeWlPEUXwG6MejaFMQjY0-SZ7";
-char ssid[] = "Meganet_Hi-Tech3D";
-char pass[] = "hitech3D85";
+char auth[] = ""; //codigo de blynk
+char ssid[] = ""; //nombre de internet
+char pass[] = ""; //clave de internet
 
 void sendSensor()
 {
